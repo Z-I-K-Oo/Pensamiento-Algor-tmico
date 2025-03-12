@@ -5,7 +5,9 @@ Este programa calculael tiempo que tarda un demonio en recorrer una distancia da
 
 ## 2. Instalación
 1. Ingresar a el repositorio en GitHub:
+       ```bash
    https://github.com/Z-I-K-Oo/Parcial-.git
+   ´´
    
-2.  Buscar el archivo:
+3.  Buscar el archivo:
    Algoritmos.cpp
