@@ -10,7 +10,8 @@ Este programa calculael tiempo que tarda un demonio en recorrer una distancia da
    
    
 2.  Buscar el archivo:
-bash      
+´´´bash      
    Algoritmos.cpp
+´´´
 
-3.
+4.
