@@ -9,17 +9,17 @@ Este programa calculael tiempo que tarda un demonio en recorrer una distancia da
    https://github.com/Z-I-K-Oo/Parcial-.git
    
    
-2.  Buscar el archivo:
+2. Buscar el archivo:
   
    Codigo Version Python
 
 3. Copilar el archivo C++
    
-  g++ demonio.cpp -o demonio
+   g++ demonio.cpp -o demonio
 
 4. Ejecuta el programa:
 
-   ./demonio   # En Linux/macOS
-demonio.exe # En Windows
+  ./demonio   # En Linux/macOS
+  demonio.exe # En Windows
 
 
