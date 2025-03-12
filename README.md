@@ -4,7 +4,8 @@
 Este programa calculael tiempo que tarda un demonio en recorrer una distancia dada, basándose en su tipo y, por ende, su velocidad. El programa toma como entrada el tipo de demonio (Zombieman, Imp o Baron of Hell) y la distancia a recorrer. Luego, calcula el tiempo necesario.
 
 ## 2. Instalación
-1. Repositorio en GitHub:
-   ´´´bash
-    https://github.com/Z-I-K-Oo/Parcial-.git
-   ´´
+1. Ingresar a el repositorio en GitHub:
+   https://github.com/Z-I-K-Oo/Parcial-.git
+   
+2.  Buscar el archivo:
+   Algoritmos.cpp
